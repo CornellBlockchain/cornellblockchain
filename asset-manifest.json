@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cornellblockchain/static/css/main.a617e044.chunk.css",
+    "main.js": "/cornellblockchain/static/js/main.612fd863.chunk.js",
+    "main.js.map": "/cornellblockchain/static/js/main.612fd863.chunk.js.map",
+    "runtime-main.js": "/cornellblockchain/static/js/runtime-main.ae15a837.js",
+    "runtime-main.js.map": "/cornellblockchain/static/js/runtime-main.ae15a837.js.map",
+    "static/js/2.aee531b2.chunk.js": "/cornellblockchain/static/js/2.aee531b2.chunk.js",
+    "static/js/2.aee531b2.chunk.js.map": "/cornellblockchain/static/js/2.aee531b2.chunk.js.map",
+    "static/js/3.e232e1bf.chunk.js": "/cornellblockchain/static/js/3.e232e1bf.chunk.js",
+    "static/js/3.e232e1bf.chunk.js.map": "/cornellblockchain/static/js/3.e232e1bf.chunk.js.map",
+    "index.html": "/cornellblockchain/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cornellblockchain/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.aee531b2.chunk.js.LICENSE.txt": "/cornellblockchain/static/js/2.aee531b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cornellblockchain/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae15a837.js",
+    "static/js/2.aee531b2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.612fd863.chunk.js"
+  ]
+}
